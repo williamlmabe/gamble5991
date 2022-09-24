@@ -1,0 +1,14 @@
+{
+  "name": "gamble5991",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "# hello",
+  "keywords": [
+    "# hello"
+  ],
+  "repository": "https://github.com/williamlmabe/gamble5991",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
